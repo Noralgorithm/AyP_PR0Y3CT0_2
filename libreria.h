@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <regex.h>
+#include <ctype.h>
 
 //DEFINIMOS LAS ESTRUCTURAS
 typedef struct Diccionario {
